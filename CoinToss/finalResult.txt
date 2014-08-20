@@ -1,0 +1,1605 @@
+This program simulates the tossing of a coin using random
+on; 50%, 52%, 55% and 60% probabilities for heads with a
+simulated weighted coin. We are tossing the coin 5, 10, 20
+and 50 times, repeating the experiment for each value;
+1000 , 10000 , and 100000 times the tosses for each probability.
+
+
+************* Start Full Simulation **************
+
+Tosses = 5    Times 1000  = 5000
+Probability used: 50.00%
+
+   Heads= 0       Result:153          Percentage:3.06%     
+   Heads= 1       Result:790          Percentage:15.80%    
+   Heads= 2       Result:1529         Percentage:30.58%    
+   Heads= 3       Result:1501         Percentage:30.02%    
+   Heads= 4       Result:837          Percentage:16.74%    
+   Heads= 5       Result:190          Percentage:3.80%     
+
+------------------- CHECKSUMS --------------------
+Accumulated Probability:100.00%
+Total times counted: 5000
+
+**************************************************
+
+
+Tosses = 5    Times 10000  = 50000
+Probability used: 50.00%
+
+   Heads= 0       Result:1524         Percentage:3.05%     
+   Heads= 1       Result:7728         Percentage:15.46%    
+   Heads= 2       Result:15613        Percentage:31.23%    
+   Heads= 3       Result:15711        Percentage:31.42%    
+   Heads= 4       Result:7833         Percentage:15.67%    
+   Heads= 5       Result:1591         Percentage:3.18%     
+
+------------------- CHECKSUMS --------------------
+Accumulated Probability:100.00%
+Total times counted: 50000
+
+**************************************************
+
+
+Tosses = 5    Times 100000  = 500000
+Probability used: 50.00%
+
+   Heads= 0       Result:15625        Percentage:3.12%     
+   Heads= 1       Result:78076        Percentage:15.62%    
+   Heads= 2       Result:156826       Percentage:31.37%    
+   Heads= 3       Result:156039       Percentage:31.21%    
+   Heads= 4       Result:77936        Percentage:15.59%    
+   Heads= 5       Result:15498        Percentage:3.10%     
+
+------------------- CHECKSUMS --------------------
+Accumulated Probability:100.00%
+Total times counted: 500000
+
+**************************************************
+
+
+Tosses = 5    Times 1000  = 5000
+Probability used: 52.00%
+
+   Heads= 0       Result:138          Percentage:2.76%     
+   Heads= 1       Result:679          Percentage:13.58%    
+   Heads= 2       Result:1494         Percentage:29.88%    
+   Heads= 3       Result:1585         Percentage:31.70%    
+   Heads= 4       Result:934          Percentage:18.68%    
+   Heads= 5       Result:170          Percentage:3.40%     
+
+------------------- CHECKSUMS --------------------
+Accumulated Probability:100.00%
+Total times counted: 5000
+
+**************************************************
+
+
+Tosses = 5    Times 10000  = 50000
+Probability used: 52.00%
+
+   Heads= 0       Result:1276         Percentage:2.55%     
+   Heads= 1       Result:6927         Percentage:13.85%    
+   Heads= 2       Result:15028        Percentage:30.06%    
+   Heads= 3       Result:16151        Percentage:32.30%    
+   Heads= 4       Result:8717         Percentage:17.43%    
+   Heads= 5       Result:1901         Percentage:3.80%     
+
+------------------- CHECKSUMS --------------------
+Accumulated Probability:100.00%
+Total times counted: 50000
+
+**************************************************
+
+
+Tosses = 5    Times 100000  = 500000
+Probability used: 52.00%
+
+   Heads= 0       Result:12755        Percentage:2.55%     
+   Heads= 1       Result:68925        Percentage:13.79%    
+   Heads= 2       Result:150226       Percentage:30.05%    
+   Heads= 3       Result:161827       Percentage:32.37%    
+   Heads= 4       Result:87390        Percentage:17.48%    
+   Heads= 5       Result:18877        Percentage:3.78%     
+
+------------------- CHECKSUMS --------------------
+Accumulated Probability:100.00%
+Total times counted: 500000
+
+**************************************************
+
+
+Tosses = 5    Times 1000  = 5000
+Probability used: 55.00%
+
+   Heads= 0       Result:70           Percentage:1.40%     
+   Heads= 1       Result:538          Percentage:10.76%    
+   Heads= 2       Result:1438         Percentage:28.76%    
+   Heads= 3       Result:1687         Percentage:33.74%    
+   Heads= 4       Result:996          Percentage:19.92%    
+   Heads= 5       Result:271          Percentage:5.42%     
+
+------------------- CHECKSUMS --------------------
+Accumulated Probability:100.00%
+Total times counted: 5000
+
+**************************************************
+
+
+Tosses = 5    Times 10000  = 50000
+Probability used: 55.00%
+
+   Heads= 0       Result:913          Percentage:1.83%     
+   Heads= 1       Result:5598         Percentage:11.20%    
+   Heads= 2       Result:14020        Percentage:28.04%    
+   Heads= 3       Result:16707        Percentage:33.41%    
+   Heads= 4       Result:10243        Percentage:20.49%    
+   Heads= 5       Result:2519         Percentage:5.04%     
+
+------------------- CHECKSUMS --------------------
+Accumulated Probability:100.00%
+Total times counted: 50000
+
+**************************************************
+
+
+Tosses = 5    Times 100000  = 500000
+Probability used: 55.00%
+
+   Heads= 0       Result:9223         Percentage:1.84%     
+   Heads= 1       Result:56695        Percentage:11.34%    
+   Heads= 2       Result:137255       Percentage:27.45%    
+   Heads= 3       Result:168948       Percentage:33.79%    
+   Heads= 4       Result:102738       Percentage:20.55%    
+   Heads= 5       Result:25141        Percentage:5.03%     
+
+------------------- CHECKSUMS --------------------
+Accumulated Probability:100.00%
+Total times counted: 500000
+
+**************************************************
+
+
+Tosses = 5    Times 1000  = 5000
+Probability used: 60.00%
+
+   Heads= 0       Result:45           Percentage:0.90%     
+   Heads= 1       Result:384          Percentage:7.68%     
+   Heads= 2       Result:1122         Percentage:22.44%    
+   Heads= 3       Result:1731         Percentage:34.62%    
+   Heads= 4       Result:1283         Percentage:25.66%    
+   Heads= 5       Result:435          Percentage:8.70%     
+
+------------------- CHECKSUMS --------------------
+Accumulated Probability:100.00%
+Total times counted: 5000
+
+**************************************************
+
+
+Tosses = 5    Times 10000  = 50000
+Probability used: 60.00%
+
+   Heads= 0       Result:518          Percentage:1.04%     
+   Heads= 1       Result:3733         Percentage:7.47%     
+   Heads= 2       Result:11530        Percentage:23.06%    
+   Heads= 3       Result:17222        Percentage:34.44%    
+   Heads= 4       Result:12936        Percentage:25.87%    
+   Heads= 5       Result:4061         Percentage:8.12%     
+
+------------------- CHECKSUMS --------------------
+Accumulated Probability:100.00%
+Total times counted: 50000
+
+**************************************************
+
+
+Tosses = 5    Times 100000  = 500000
+Probability used: 60.00%
+
+   Heads= 0       Result:5074         Percentage:1.01%     
+   Heads= 1       Result:38343        Percentage:7.67%     
+   Heads= 2       Result:114991       Percentage:23.00%    
+   Heads= 3       Result:172961       Percentage:34.59%    
+   Heads= 4       Result:129878       Percentage:25.98%    
+   Heads= 5       Result:38753        Percentage:7.75%     
+
+------------------- CHECKSUMS --------------------
+Accumulated Probability:100.00%
+Total times counted: 500000
+
+**************************************************
+
+
+Tosses = 10    Times 1000  = 10000
+Probability used: 50.00%
+
+   Heads= 0       Result:10           Percentage:0.10%     
+   Heads= 1       Result:104          Percentage:1.04%     
+   Heads= 2       Result:446          Percentage:4.46%     
+   Heads= 3       Result:1166         Percentage:11.66%    
+   Heads= 4       Result:2078         Percentage:20.78%    
+   Heads= 5       Result:2452         Percentage:24.52%    
+   Heads= 6       Result:1994         Percentage:19.94%    
+   Heads= 7       Result:1176         Percentage:11.76%    
+   Heads= 8       Result:449          Percentage:4.49%     
+   Heads= 9       Result:118          Percentage:1.18%     
+   Heads= 10      Result:7            Percentage:0.07%     
+
+------------------- CHECKSUMS --------------------
+Accumulated Probability:100.00%
+Total times counted: 10000
+
+**************************************************
+
+
+Tosses = 10    Times 10000  = 100000
+Probability used: 50.00%
+
+   Heads= 0       Result:93           Percentage:0.09%     
+   Heads= 1       Result:942          Percentage:0.94%     
+   Heads= 2       Result:4370         Percentage:4.37%     
+   Heads= 3       Result:11650        Percentage:11.65%    
+   Heads= 4       Result:20537        Percentage:20.54%    
+   Heads= 5       Result:24662        Percentage:24.66%    
+   Heads= 6       Result:20647        Percentage:20.65%    
+   Heads= 7       Result:11616        Percentage:11.62%    
+   Heads= 8       Result:4371         Percentage:4.37%     
+   Heads= 9       Result:1025         Percentage:1.03%     
+   Heads= 10      Result:87           Percentage:0.09%     
+
+------------------- CHECKSUMS --------------------
+Accumulated Probability:100.00%
+Total times counted: 100000
+
+**************************************************
+
+
+Tosses = 10    Times 100000  = 1000000
+Probability used: 50.00%
+
+   Heads= 0       Result:935          Percentage:0.09%     
+   Heads= 1       Result:9863         Percentage:0.99%     
+   Heads= 2       Result:43918        Percentage:4.39%     
+   Heads= 3       Result:116646       Percentage:11.66%    
+   Heads= 4       Result:204882       Percentage:20.49%    
+   Heads= 5       Result:246093       Percentage:24.61%    
+   Heads= 6       Result:205132       Percentage:20.51%    
+   Heads= 7       Result:118089       Percentage:11.81%    
+   Heads= 8       Result:43811        Percentage:4.38%     
+   Heads= 9       Result:9677         Percentage:0.97%     
+   Heads= 10      Result:954          Percentage:0.10%     
+
+------------------- CHECKSUMS --------------------
+Accumulated Probability:100.00%
+Total times counted: 1000000
+
+**************************************************
+
+
+Tosses = 10    Times 1000  = 10000
+Probability used: 52.00%
+
+   Heads= 0       Result:6            Percentage:0.06%     
+   Heads= 1       Result:79           Percentage:0.79%     
+   Heads= 2       Result:311          Percentage:3.11%     
+   Heads= 3       Result:970          Percentage:9.70%     
+   Heads= 4       Result:1872         Percentage:18.72%    
+   Heads= 5       Result:2505         Percentage:25.05%    
+   Heads= 6       Result:2208         Percentage:22.08%    
+   Heads= 7       Result:1338         Percentage:13.38%    
+   Heads= 8       Result:557          Percentage:5.57%     
+   Heads= 9       Result:139          Percentage:1.39%     
+   Heads= 10      Result:15           Percentage:0.15%     
+
+------------------- CHECKSUMS --------------------
+Accumulated Probability:100.00%
+Total times counted: 10000
+
+**************************************************
+
+
+Tosses = 10    Times 10000  = 100000
+Probability used: 52.00%
+
+   Heads= 0       Result:70           Percentage:0.07%     
+   Heads= 1       Result:708          Percentage:0.71%     
+   Heads= 2       Result:3385         Percentage:3.38%     
+   Heads= 3       Result:10014        Percentage:10.01%    
+   Heads= 4       Result:18752        Percentage:18.75%    
+   Heads= 5       Result:24253        Percentage:24.25%    
+   Heads= 6       Result:22121        Percentage:22.12%    
+   Heads= 7       Result:13611        Percentage:13.61%    
+   Heads= 8       Result:5556         Percentage:5.56%     
+   Heads= 9       Result:1386         Percentage:1.39%     
+   Heads= 10      Result:144          Percentage:0.14%     
+
+------------------- CHECKSUMS --------------------
+Accumulated Probability:100.00%
+Total times counted: 100000
+
+**************************************************
+
+
+Tosses = 10    Times 100000  = 1000000
+Probability used: 52.00%
+
+   Heads= 0       Result:622          Percentage:0.06%     
+   Heads= 1       Result:7092         Percentage:0.71%     
+   Heads= 2       Result:34320        Percentage:3.43%     
+   Heads= 3       Result:98674        Percentage:9.87%     
+   Heads= 4       Result:187391       Percentage:18.74%    
+   Heads= 5       Result:244180       Percentage:24.42%    
+   Heads= 6       Result:221102       Percentage:22.11%    
+   Heads= 7       Result:136306       Percentage:13.63%    
+   Heads= 8       Result:55468        Percentage:5.55%     
+   Heads= 9       Result:13385        Percentage:1.34%     
+   Heads= 10      Result:1460         Percentage:0.15%     
+
+------------------- CHECKSUMS --------------------
+Accumulated Probability:100.00%
+Total times counted: 1000000
+
+**************************************************
+
+
+Tosses = 10    Times 1000  = 10000
+Probability used: 55.00%
+
+   Heads= 0       Result:4            Percentage:0.04%     
+   Heads= 1       Result:43           Percentage:0.43%     
+   Heads= 2       Result:221          Percentage:2.21%     
+   Heads= 3       Result:748          Percentage:7.48%     
+   Heads= 4       Result:1593         Percentage:15.93%    
+   Heads= 5       Result:2354         Percentage:23.54%    
+   Heads= 6       Result:2398         Percentage:23.98%    
+   Heads= 7       Result:1681         Percentage:16.81%    
+   Heads= 8       Result:738          Percentage:7.38%     
+   Heads= 9       Result:197          Percentage:1.97%     
+   Heads= 10      Result:23           Percentage:0.23%     
+
+------------------- CHECKSUMS --------------------
+Accumulated Probability:100.00%
+Total times counted: 10000
+
+**************************************************
+
+
+Tosses = 10    Times 10000  = 100000
+Probability used: 55.00%
+
+   Heads= 0       Result:35           Percentage:0.03%     
+   Heads= 1       Result:436          Percentage:0.44%     
+   Heads= 2       Result:2283         Percentage:2.28%     
+   Heads= 3       Result:7492         Percentage:7.49%     
+   Heads= 4       Result:15899        Percentage:15.90%    
+   Heads= 5       Result:23528        Percentage:23.53%    
+   Heads= 6       Result:23723        Percentage:23.72%    
+   Heads= 7       Result:16717        Percentage:16.72%    
+   Heads= 8       Result:7558         Percentage:7.56%     
+   Heads= 9       Result:2057         Percentage:2.06%     
+   Heads= 10      Result:272          Percentage:0.27%     
+
+------------------- CHECKSUMS --------------------
+Accumulated Probability:100.00%
+Total times counted: 100000
+
+**************************************************
+
+
+Tosses = 10    Times 100000  = 1000000
+Probability used: 55.00%
+
+   Heads= 0       Result:353          Percentage:0.04%     
+   Heads= 1       Result:4183         Percentage:0.42%     
+   Heads= 2       Result:22838        Percentage:2.28%     
+   Heads= 3       Result:74197        Percentage:7.42%     
+   Heads= 4       Result:159474       Percentage:15.95%    
+   Heads= 5       Result:233463       Percentage:23.35%    
+   Heads= 6       Result:238743       Percentage:23.87%    
+   Heads= 7       Result:166806       Percentage:16.68%    
+   Heads= 8       Result:76581        Percentage:7.66%     
+   Heads= 9       Result:20883        Percentage:2.09%     
+   Heads= 10      Result:2479         Percentage:0.25%     
+
+------------------- CHECKSUMS --------------------
+Accumulated Probability:100.00%
+Total times counted: 1000000
+
+**************************************************
+
+
+Tosses = 10    Times 1000  = 10000
+Probability used: 60.00%
+
+   Heads= 0       Result:1            Percentage:0.01%     
+   Heads= 1       Result:18           Percentage:0.18%     
+   Heads= 2       Result:115          Percentage:1.15%     
+   Heads= 3       Result:427          Percentage:4.27%     
+   Heads= 4       Result:1121         Percentage:11.21%    
+   Heads= 5       Result:2070         Percentage:20.70%    
+   Heads= 6       Result:2476         Percentage:24.76%    
+   Heads= 7       Result:2194         Percentage:21.94%    
+   Heads= 8       Result:1155         Percentage:11.55%    
+   Heads= 9       Result:371          Percentage:3.71%     
+   Heads= 10      Result:52           Percentage:0.52%     
+
+------------------- CHECKSUMS --------------------
+Accumulated Probability:100.00%
+Total times counted: 10000
+
+**************************************************
+
+
+Tosses = 10    Times 10000  = 100000
+Probability used: 60.00%
+
+   Heads= 0       Result:6            Percentage:0.01%     
+   Heads= 1       Result:151          Percentage:0.15%     
+   Heads= 2       Result:1090         Percentage:1.09%     
+   Heads= 3       Result:4190         Percentage:4.19%     
+   Heads= 4       Result:11274        Percentage:11.27%    
+   Heads= 5       Result:20020        Percentage:20.02%    
+   Heads= 6       Result:24919        Percentage:24.92%    
+   Heads= 7       Result:21658        Percentage:21.66%    
+   Heads= 8       Result:11975        Percentage:11.97%    
+   Heads= 9       Result:4108         Percentage:4.11%     
+   Heads= 10      Result:609          Percentage:0.61%     
+
+------------------- CHECKSUMS --------------------
+Accumulated Probability:100.00%
+Total times counted: 100000
+
+**************************************************
+
+
+Tosses = 10    Times 100000  = 1000000
+Probability used: 60.00%
+
+   Heads= 0       Result:94           Percentage:0.01%     
+   Heads= 1       Result:1513         Percentage:0.15%     
+   Heads= 2       Result:10624        Percentage:1.06%     
+   Heads= 3       Result:42331        Percentage:4.23%     
+   Heads= 4       Result:111596       Percentage:11.16%    
+   Heads= 5       Result:200922       Percentage:20.09%    
+   Heads= 6       Result:250228       Percentage:25.02%    
+   Heads= 7       Result:215500       Percentage:21.55%    
+   Heads= 8       Result:120966       Percentage:12.10%    
+   Heads= 9       Result:40238        Percentage:4.02%     
+   Heads= 10      Result:5988         Percentage:0.60%     
+
+------------------- CHECKSUMS --------------------
+Accumulated Probability:100.00%
+Total times counted: 1000000
+
+**************************************************
+
+
+Tosses = 20    Times 1000  = 20000
+Probability used: 50.00%
+
+   Heads= 0       Result:0            Percentage:0.00%     
+   Heads= 1       Result:0            Percentage:0.00%     
+   Heads= 2       Result:4            Percentage:0.02%     
+   Heads= 3       Result:25           Percentage:0.12%     
+   Heads= 4       Result:98           Percentage:0.49%     
+   Heads= 5       Result:298          Percentage:1.49%     
+   Heads= 6       Result:738          Percentage:3.69%     
+   Heads= 7       Result:1471         Percentage:7.36%     
+   Heads= 8       Result:2383         Percentage:11.92%    
+   Heads= 9       Result:3192         Percentage:15.96%    
+   Heads= 10      Result:3547         Percentage:17.73%    
+   Heads= 11      Result:3207         Percentage:16.04%    
+   Heads= 12      Result:2403         Percentage:12.02%    
+   Heads= 13      Result:1452         Percentage:7.26%     
+   Heads= 14      Result:784          Percentage:3.92%     
+   Heads= 15      Result:282          Percentage:1.41%     
+   Heads= 16      Result:87           Percentage:0.43%     
+   Heads= 17      Result:22           Percentage:0.11%     
+   Heads= 18      Result:6            Percentage:0.03%     
+   Heads= 19      Result:1            Percentage:0.01%     
+   Heads= 20      Result:0            Percentage:0.00%     
+
+------------------- CHECKSUMS --------------------
+Accumulated Probability:100.00%
+Total times counted: 20000
+
+**************************************************
+
+
+Tosses = 20    Times 10000  = 200000
+Probability used: 50.00%
+
+   Heads= 0       Result:0            Percentage:0.00%     
+   Heads= 1       Result:5            Percentage:0.00%     
+   Heads= 2       Result:25           Percentage:0.01%     
+   Heads= 3       Result:222          Percentage:0.11%     
+   Heads= 4       Result:916          Percentage:0.46%     
+   Heads= 5       Result:2989         Percentage:1.49%     
+   Heads= 6       Result:7450         Percentage:3.72%     
+   Heads= 7       Result:14906        Percentage:7.45%     
+   Heads= 8       Result:24038        Percentage:12.02%    
+   Heads= 9       Result:32205        Percentage:16.10%    
+   Heads= 10      Result:35194        Percentage:17.60%    
+   Heads= 11      Result:31913        Percentage:15.96%    
+   Heads= 12      Result:24034        Percentage:12.02%    
+   Heads= 13      Result:14589        Percentage:7.29%     
+   Heads= 14      Result:7336         Percentage:3.67%     
+   Heads= 15      Result:3002         Percentage:1.50%     
+   Heads= 16      Result:893          Percentage:0.45%     
+   Heads= 17      Result:239          Percentage:0.12%     
+   Heads= 18      Result:39           Percentage:0.02%     
+   Heads= 19      Result:5            Percentage:0.00%     
+   Heads= 20      Result:0            Percentage:0.00%     
+
+------------------- CHECKSUMS --------------------
+Accumulated Probability:100.00%
+Total times counted: 200000
+
+**************************************************
+
+
+Tosses = 20    Times 100000  = 2000000
+Probability used: 50.00%
+
+   Heads= 0       Result:3            Percentage:0.00%     
+   Heads= 1       Result:41           Percentage:0.00%     
+   Heads= 2       Result:372          Percentage:0.02%     
+   Heads= 3       Result:2138         Percentage:0.11%     
+   Heads= 4       Result:9142         Percentage:0.46%     
+   Heads= 5       Result:29734        Percentage:1.49%     
+   Heads= 6       Result:73660        Percentage:3.68%     
+   Heads= 7       Result:148046       Percentage:7.40%     
+   Heads= 8       Result:240485       Percentage:12.02%    
+   Heads= 9       Result:319927       Percentage:16.00%    
+   Heads= 10      Result:352791       Percentage:17.64%    
+   Heads= 11      Result:320836       Percentage:16.04%    
+   Heads= 12      Result:240552       Percentage:12.03%    
+   Heads= 13      Result:147205       Percentage:7.36%     
+   Heads= 14      Result:73671        Percentage:3.68%     
+   Heads= 15      Result:29512        Percentage:1.48%     
+   Heads= 16      Result:9214         Percentage:0.46%     
+   Heads= 17      Result:2217         Percentage:0.11%     
+   Heads= 18      Result:416          Percentage:0.02%     
+   Heads= 19      Result:37           Percentage:0.00%     
+   Heads= 20      Result:1            Percentage:0.00%     
+
+------------------- CHECKSUMS --------------------
+Accumulated Probability:100.00%
+Total times counted: 2000000
+
+**************************************************
+
+
+Tosses = 20    Times 1000  = 20000
+Probability used: 52.00%
+
+   Heads= 0       Result:0            Percentage:0.00%     
+   Heads= 1       Result:0            Percentage:0.00%     
+   Heads= 2       Result:0            Percentage:0.00%     
+   Heads= 3       Result:18           Percentage:0.09%     
+   Heads= 4       Result:40           Percentage:0.20%     
+   Heads= 5       Result:194          Percentage:0.97%     
+   Heads= 6       Result:557          Percentage:2.79%     
+   Heads= 7       Result:1058         Percentage:5.29%     
+   Heads= 8       Result:2052         Percentage:10.26%    
+   Heads= 9       Result:2808         Percentage:14.04%    
+   Heads= 10      Result:3464         Percentage:17.32%    
+   Heads= 11      Result:3450         Percentage:17.25%    
+   Heads= 12      Result:2847         Percentage:14.24%    
+   Heads= 13      Result:1920         Percentage:9.60%     
+   Heads= 14      Result:973          Percentage:4.87%     
+   Heads= 15      Result:424          Percentage:2.12%     
+   Heads= 16      Result:150          Percentage:0.75%     
+   Heads= 17      Result:37           Percentage:0.18%     
+   Heads= 18      Result:7            Percentage:0.03%     
+   Heads= 19      Result:1            Percentage:0.01%     
+   Heads= 20      Result:0            Percentage:0.00%     
+
+------------------- CHECKSUMS --------------------
+Accumulated Probability:100.00%
+Total times counted: 20000
+
+**************************************************
+
+
+Tosses = 20    Times 10000  = 200000
+Probability used: 52.00%
+
+   Heads= 0       Result:1            Percentage:0.00%     
+   Heads= 1       Result:4            Percentage:0.00%     
+   Heads= 2       Result:13           Percentage:0.01%     
+   Heads= 3       Result:130          Percentage:0.07%     
+   Heads= 4       Result:579          Percentage:0.29%     
+   Heads= 5       Result:1873         Percentage:0.94%     
+   Heads= 6       Result:5296         Percentage:2.65%     
+   Heads= 7       Result:11386        Percentage:5.69%     
+   Heads= 8       Result:19991        Percentage:10.00%    
+   Heads= 9       Result:29236        Percentage:14.62%    
+   Heads= 10      Result:34532        Percentage:17.27%    
+   Heads= 11      Result:34159        Percentage:17.08%    
+   Heads= 12      Result:28006        Percentage:14.00%    
+   Heads= 13      Result:18637        Percentage:9.32%     
+   Heads= 14      Result:9816         Percentage:4.91%     
+   Heads= 15      Result:4355         Percentage:2.18%     
+   Heads= 16      Result:1516         Percentage:0.76%     
+   Heads= 17      Result:370          Percentage:0.18%     
+   Heads= 18      Result:86           Percentage:0.04%     
+   Heads= 19      Result:14           Percentage:0.01%     
+   Heads= 20      Result:0            Percentage:0.00%     
+
+------------------- CHECKSUMS --------------------
+Accumulated Probability:100.00%
+Total times counted: 200000
+
+**************************************************
+
+
+Tosses = 20    Times 100000  = 2000000
+Probability used: 52.00%
+
+   Heads= 0       Result:2            Percentage:0.00%     
+   Heads= 1       Result:23           Percentage:0.00%     
+   Heads= 2       Result:197          Percentage:0.01%     
+   Heads= 3       Result:1222         Percentage:0.06%     
+   Heads= 4       Result:5662         Percentage:0.28%     
+   Heads= 5       Result:19421        Percentage:0.97%     
+   Heads= 6       Result:52727        Percentage:2.64%     
+   Heads= 7       Result:114271       Percentage:5.71%     
+   Heads= 8       Result:202002       Percentage:10.10%    
+   Heads= 9       Result:290932       Percentage:14.55%    
+   Heads= 10      Result:345640       Percentage:17.28%    
+   Heads= 11      Result:341476       Percentage:17.07%    
+   Heads= 12      Result:277632       Percentage:13.88%    
+   Heads= 13      Result:185746       Percentage:9.29%     
+   Heads= 14      Result:100470       Percentage:5.02%     
+   Heads= 15      Result:43380        Percentage:2.17%     
+   Heads= 16      Result:14841        Percentage:0.74%     
+   Heads= 17      Result:3622         Percentage:0.18%     
+   Heads= 18      Result:662          Percentage:0.03%     
+   Heads= 19      Result:66           Percentage:0.00%     
+   Heads= 20      Result:6            Percentage:0.00%     
+
+------------------- CHECKSUMS --------------------
+Accumulated Probability:100.00%
+Total times counted: 2000000
+
+**************************************************
+
+
+Tosses = 20    Times 1000  = 20000
+Probability used: 55.00%
+
+   Heads= 0       Result:0            Percentage:0.00%     
+   Heads= 1       Result:0            Percentage:0.00%     
+   Heads= 2       Result:0            Percentage:0.00%     
+   Heads= 3       Result:6            Percentage:0.03%     
+   Heads= 4       Result:24           Percentage:0.12%     
+   Heads= 5       Result:92           Percentage:0.46%     
+   Heads= 6       Result:297          Percentage:1.49%     
+   Heads= 7       Result:755          Percentage:3.77%     
+   Heads= 8       Result:1552         Percentage:7.76%     
+   Heads= 9       Result:2337         Percentage:11.68%    
+   Heads= 10      Result:3144         Percentage:15.72%    
+   Heads= 11      Result:3515         Percentage:17.57%    
+   Heads= 12      Result:3230         Percentage:16.15%    
+   Heads= 13      Result:2420         Percentage:12.10%    
+   Heads= 14      Result:1526         Percentage:7.63%     
+   Heads= 15      Result:722          Percentage:3.61%     
+   Heads= 16      Result:272          Percentage:1.36%     
+   Heads= 17      Result:89           Percentage:0.45%     
+   Heads= 18      Result:18           Percentage:0.09%     
+   Heads= 19      Result:1            Percentage:0.01%     
+   Heads= 20      Result:0            Percentage:0.00%     
+
+------------------- CHECKSUMS --------------------
+Accumulated Probability:100.00%
+Total times counted: 20000
+
+**************************************************
+
+
+Tosses = 20    Times 10000  = 200000
+Probability used: 55.00%
+
+   Heads= 0       Result:0            Percentage:0.00%     
+   Heads= 1       Result:0            Percentage:0.00%     
+   Heads= 2       Result:3            Percentage:0.00%     
+   Heads= 3       Result:46           Percentage:0.02%     
+   Heads= 4       Result:264          Percentage:0.13%     
+   Heads= 5       Result:923          Percentage:0.46%     
+   Heads= 6       Result:2974         Percentage:1.49%     
+   Heads= 7       Result:7376         Percentage:3.69%     
+   Heads= 8       Result:14568        Percentage:7.28%     
+   Heads= 9       Result:23548        Percentage:11.77%    
+   Heads= 10      Result:32053        Percentage:16.03%    
+   Heads= 11      Result:35528        Percentage:17.76%    
+   Heads= 12      Result:32573        Percentage:16.29%    
+   Heads= 13      Result:24379        Percentage:12.19%    
+   Heads= 14      Result:14794        Percentage:7.40%     
+   Heads= 15      Result:7281         Percentage:3.64%     
+   Heads= 16      Result:2739         Percentage:1.37%     
+   Heads= 17      Result:766          Percentage:0.38%     
+   Heads= 18      Result:165          Percentage:0.08%     
+   Heads= 19      Result:18           Percentage:0.01%     
+   Heads= 20      Result:2            Percentage:0.00%     
+
+------------------- CHECKSUMS --------------------
+Accumulated Probability:100.00%
+Total times counted: 200000
+
+**************************************************
+
+
+Tosses = 20    Times 100000  = 2000000
+Probability used: 55.00%
+
+   Heads= 0       Result:0            Percentage:0.00%     
+   Heads= 1       Result:4            Percentage:0.00%     
+   Heads= 2       Result:63           Percentage:0.00%     
+   Heads= 3       Result:506          Percentage:0.03%     
+   Heads= 4       Result:2498         Percentage:0.12%     
+   Heads= 5       Result:9971         Percentage:0.50%     
+   Heads= 6       Result:29992        Percentage:1.50%     
+   Heads= 7       Result:73562        Percentage:3.68%     
+   Heads= 8       Result:145142       Percentage:7.26%     
+   Heads= 9       Result:236817       Percentage:11.84%    
+   Heads= 10      Result:318065       Percentage:15.90%    
+   Heads= 11      Result:354525       Percentage:17.73%    
+   Heads= 12      Result:324732       Percentage:16.24%    
+   Heads= 13      Result:243987       Percentage:12.20%    
+   Heads= 14      Result:149500       Percentage:7.47%     
+   Heads= 15      Result:73175        Percentage:3.66%     
+   Heads= 16      Result:27609        Percentage:1.38%     
+   Heads= 17      Result:8058         Percentage:0.40%     
+   Heads= 18      Result:1575         Percentage:0.08%     
+   Heads= 19      Result:210          Percentage:0.01%     
+   Heads= 20      Result:9            Percentage:0.00%     
+
+------------------- CHECKSUMS --------------------
+Accumulated Probability:100.00%
+Total times counted: 2000000
+
+**************************************************
+
+
+Tosses = 20    Times 1000  = 20000
+Probability used: 60.00%
+
+   Heads= 0       Result:0            Percentage:0.00%     
+   Heads= 1       Result:0            Percentage:0.00%     
+   Heads= 2       Result:0            Percentage:0.00%     
+   Heads= 3       Result:0            Percentage:0.00%     
+   Heads= 4       Result:6            Percentage:0.03%     
+   Heads= 5       Result:32           Percentage:0.16%     
+   Heads= 6       Result:75           Percentage:0.38%     
+   Heads= 7       Result:295          Percentage:1.47%     
+   Heads= 8       Result:718          Percentage:3.59%     
+   Heads= 9       Result:1380         Percentage:6.90%     
+   Heads= 10      Result:2429         Percentage:12.14%    
+   Heads= 11      Result:3199         Percentage:16.00%    
+   Heads= 12      Result:3605         Percentage:18.02%    
+   Heads= 13      Result:3343         Percentage:16.71%    
+   Heads= 14      Result:2377         Percentage:11.88%    
+   Heads= 15      Result:1537         Percentage:7.69%     
+   Heads= 16      Result:722          Percentage:3.61%     
+   Heads= 17      Result:219          Percentage:1.09%     
+   Heads= 18      Result:57           Percentage:0.29%     
+   Heads= 19      Result:6            Percentage:0.03%     
+   Heads= 20      Result:0            Percentage:0.00%     
+
+------------------- CHECKSUMS --------------------
+Accumulated Probability:100.00%
+Total times counted: 20000
+
+**************************************************
+
+
+Tosses = 20    Times 10000  = 200000
+Probability used: 60.00%
+
+   Heads= 0       Result:0            Percentage:0.00%     
+   Heads= 1       Result:0            Percentage:0.00%     
+   Heads= 2       Result:0            Percentage:0.00%     
+   Heads= 3       Result:4            Percentage:0.00%     
+   Heads= 4       Result:60           Percentage:0.03%     
+   Heads= 5       Result:253          Percentage:0.13%     
+   Heads= 6       Result:968          Percentage:0.48%     
+   Heads= 7       Result:2940         Percentage:1.47%     
+   Heads= 8       Result:6977         Percentage:3.49%     
+   Heads= 9       Result:14179        Percentage:7.09%     
+   Heads= 10      Result:23569        Percentage:11.78%    
+   Heads= 11      Result:32105        Percentage:16.05%    
+   Heads= 12      Result:36027        Percentage:18.01%    
+   Heads= 13      Result:32876        Percentage:16.44%    
+   Heads= 14      Result:24942        Percentage:12.47%    
+   Heads= 15      Result:14837        Percentage:7.42%     
+   Heads= 16      Result:7011         Percentage:3.51%     
+   Heads= 17      Result:2527         Percentage:1.26%     
+   Heads= 18      Result:620          Percentage:0.31%     
+   Heads= 19      Result:101          Percentage:0.05%     
+   Heads= 20      Result:4            Percentage:0.00%     
+
+------------------- CHECKSUMS --------------------
+Accumulated Probability:100.00%
+Total times counted: 200000
+
+**************************************************
+
+
+Tosses = 20    Times 100000  = 2000000
+Probability used: 60.00%
+
+   Heads= 0       Result:0            Percentage:0.00%     
+   Heads= 1       Result:0            Percentage:0.00%     
+   Heads= 2       Result:12           Percentage:0.00%     
+   Heads= 3       Result:76           Percentage:0.00%     
+   Heads= 4       Result:505          Percentage:0.03%     
+   Heads= 5       Result:2625         Percentage:0.13%     
+   Heads= 6       Result:9803         Percentage:0.49%     
+   Heads= 7       Result:29082        Percentage:1.45%     
+   Heads= 8       Result:70779        Percentage:3.54%     
+   Heads= 9       Result:141800       Percentage:7.09%     
+   Heads= 10      Result:234749       Percentage:11.74%    
+   Heads= 11      Result:319321       Percentage:15.97%    
+   Heads= 12      Result:358657       Percentage:17.93%    
+   Heads= 13      Result:331778       Percentage:16.59%    
+   Heads= 14      Result:249601       Percentage:12.48%    
+   Heads= 15      Result:149066       Percentage:7.45%     
+   Heads= 16      Result:70354        Percentage:3.52%     
+   Heads= 17      Result:24634        Percentage:1.23%     
+   Heads= 18      Result:6145         Percentage:0.31%     
+   Heads= 19      Result:936          Percentage:0.05%     
+   Heads= 20      Result:77           Percentage:0.00%     
+
+------------------- CHECKSUMS --------------------
+Accumulated Probability:100.00%
+Total times counted: 2000000
+
+**************************************************
+
+
+Tosses = 50    Times 1000  = 50000
+Probability used: 50.00%
+
+   Heads= 0       Result:0            Percentage:0.00%     
+   Heads= 1       Result:0            Percentage:0.00%     
+   Heads= 2       Result:0            Percentage:0.00%     
+   Heads= 3       Result:0            Percentage:0.00%     
+   Heads= 4       Result:0            Percentage:0.00%     
+   Heads= 5       Result:0            Percentage:0.00%     
+   Heads= 6       Result:0            Percentage:0.00%     
+   Heads= 7       Result:0            Percentage:0.00%     
+   Heads= 8       Result:0            Percentage:0.00%     
+   Heads= 9       Result:0            Percentage:0.00%     
+   Heads= 10      Result:0            Percentage:0.00%     
+   Heads= 11      Result:1            Percentage:0.00%     
+   Heads= 12      Result:6            Percentage:0.01%     
+   Heads= 13      Result:10           Percentage:0.02%     
+   Heads= 14      Result:38           Percentage:0.08%     
+   Heads= 15      Result:89           Percentage:0.18%     
+   Heads= 16      Result:216          Percentage:0.43%     
+   Heads= 17      Result:450          Percentage:0.90%     
+   Heads= 18      Result:784          Percentage:1.57%     
+   Heads= 19      Result:1382         Percentage:2.76%     
+   Heads= 20      Result:2091         Percentage:4.18%     
+   Heads= 21      Result:3011         Percentage:6.02%     
+   Heads= 22      Result:3900         Percentage:7.80%     
+   Heads= 23      Result:4777         Percentage:9.55%     
+   Heads= 24      Result:5458         Percentage:10.92%    
+   Heads= 25      Result:5625         Percentage:11.25%    
+   Heads= 26      Result:5423         Percentage:10.85%    
+   Heads= 27      Result:4705         Percentage:9.41%     
+   Heads= 28      Result:3920         Percentage:7.84%     
+   Heads= 29      Result:3038         Percentage:6.08%     
+   Heads= 30      Result:2074         Percentage:4.15%     
+   Heads= 31      Result:1321         Percentage:2.64%     
+   Heads= 32      Result:791          Percentage:1.58%     
+   Heads= 33      Result:466          Percentage:0.93%     
+   Heads= 34      Result:257          Percentage:0.51%     
+   Heads= 35      Result:112          Percentage:0.22%     
+   Heads= 36      Result:41           Percentage:0.08%     
+   Heads= 37      Result:10           Percentage:0.02%     
+   Heads= 38      Result:3            Percentage:0.01%     
+   Heads= 39      Result:1            Percentage:0.00%     
+   Heads= 40      Result:0            Percentage:0.00%     
+   Heads= 41      Result:0            Percentage:0.00%     
+   Heads= 42      Result:0            Percentage:0.00%     
+   Heads= 43      Result:0            Percentage:0.00%     
+   Heads= 44      Result:0            Percentage:0.00%     
+   Heads= 45      Result:0            Percentage:0.00%     
+   Heads= 46      Result:0            Percentage:0.00%     
+   Heads= 47      Result:0            Percentage:0.00%     
+   Heads= 48      Result:0            Percentage:0.00%     
+   Heads= 49      Result:0            Percentage:0.00%     
+   Heads= 50      Result:0            Percentage:0.00%     
+
+------------------- CHECKSUMS --------------------
+Accumulated Probability:100.00%
+Total times counted: 50000
+
+**************************************************
+
+
+Tosses = 50    Times 10000  = 500000
+Probability used: 50.00%
+
+   Heads= 0       Result:0            Percentage:0.00%     
+   Heads= 1       Result:0            Percentage:0.00%     
+   Heads= 2       Result:0            Percentage:0.00%     
+   Heads= 3       Result:0            Percentage:0.00%     
+   Heads= 4       Result:0            Percentage:0.00%     
+   Heads= 5       Result:0            Percentage:0.00%     
+   Heads= 6       Result:0            Percentage:0.00%     
+   Heads= 7       Result:0            Percentage:0.00%     
+   Heads= 8       Result:0            Percentage:0.00%     
+   Heads= 9       Result:1            Percentage:0.00%     
+   Heads= 10      Result:4            Percentage:0.00%     
+   Heads= 11      Result:20           Percentage:0.00%     
+   Heads= 12      Result:54           Percentage:0.01%     
+   Heads= 13      Result:145          Percentage:0.03%     
+   Heads= 14      Result:447          Percentage:0.09%     
+   Heads= 15      Result:1006         Percentage:0.20%     
+   Heads= 16      Result:2169         Percentage:0.43%     
+   Heads= 17      Result:4427         Percentage:0.89%     
+   Heads= 18      Result:7942         Percentage:1.59%     
+   Heads= 19      Result:13409        Percentage:2.68%     
+   Heads= 20      Result:21017        Percentage:4.20%     
+   Heads= 21      Result:29580        Percentage:5.92%     
+   Heads= 22      Result:39497        Percentage:7.90%     
+   Heads= 23      Result:47982        Percentage:9.60%     
+   Heads= 24      Result:53816        Percentage:10.76%    
+   Heads= 25      Result:56497        Percentage:11.30%    
+   Heads= 26      Result:53494        Percentage:10.70%    
+   Heads= 27      Result:48165        Percentage:9.63%     
+   Heads= 28      Result:39206        Percentage:7.84%     
+   Heads= 29      Result:30338        Percentage:6.07%     
+   Heads= 30      Result:21005        Percentage:4.20%     
+   Heads= 31      Result:13537        Percentage:2.71%     
+   Heads= 32      Result:8105         Percentage:1.62%     
+   Heads= 33      Result:4306         Percentage:0.86%     
+   Heads= 34      Result:2154         Percentage:0.43%     
+   Heads= 35      Result:1009         Percentage:0.20%     
+   Heads= 36      Result:432          Percentage:0.09%     
+   Heads= 37      Result:161          Percentage:0.03%     
+   Heads= 38      Result:49           Percentage:0.01%     
+   Heads= 39      Result:21           Percentage:0.00%     
+   Heads= 40      Result:4            Percentage:0.00%     
+   Heads= 41      Result:0            Percentage:0.00%     
+   Heads= 42      Result:1            Percentage:0.00%     
+   Heads= 43      Result:0            Percentage:0.00%     
+   Heads= 44      Result:0            Percentage:0.00%     
+   Heads= 45      Result:0            Percentage:0.00%     
+   Heads= 46      Result:0            Percentage:0.00%     
+   Heads= 47      Result:0            Percentage:0.00%     
+   Heads= 48      Result:0            Percentage:0.00%     
+   Heads= 49      Result:0            Percentage:0.00%     
+   Heads= 50      Result:0            Percentage:0.00%     
+
+------------------- CHECKSUMS --------------------
+Accumulated Probability:100.00%
+Total times counted: 500000
+
+**************************************************
+
+
+Tosses = 50    Times 100000  = 5000000
+Probability used: 50.00%
+
+   Heads= 0       Result:0            Percentage:0.00%     
+   Heads= 1       Result:0            Percentage:0.00%     
+   Heads= 2       Result:0            Percentage:0.00%     
+   Heads= 3       Result:0            Percentage:0.00%     
+   Heads= 4       Result:0            Percentage:0.00%     
+   Heads= 5       Result:0            Percentage:0.00%     
+   Heads= 6       Result:0            Percentage:0.00%     
+   Heads= 7       Result:1            Percentage:0.00%     
+   Heads= 8       Result:2            Percentage:0.00%     
+   Heads= 9       Result:12           Percentage:0.00%     
+   Heads= 10      Result:36           Percentage:0.00%     
+   Heads= 11      Result:166          Percentage:0.00%     
+   Heads= 12      Result:569          Percentage:0.01%     
+   Heads= 13      Result:1615         Percentage:0.03%     
+   Heads= 14      Result:4225         Percentage:0.08%     
+   Heads= 15      Result:10117        Percentage:0.20%     
+   Heads= 16      Result:21810        Percentage:0.44%     
+   Heads= 17      Result:43908        Percentage:0.88%     
+   Heads= 18      Result:80388        Percentage:1.61%     
+   Heads= 19      Result:134993       Percentage:2.70%     
+   Heads= 20      Result:208181       Percentage:4.16%     
+   Heads= 21      Result:298829       Percentage:5.98%     
+   Heads= 22      Result:393430       Percentage:7.87%     
+   Heads= 23      Result:480152       Percentage:9.60%     
+   Heads= 24      Result:540100       Percentage:10.80%    
+   Heads= 25      Result:561532       Percentage:11.23%    
+   Heads= 26      Result:540125       Percentage:10.80%    
+   Heads= 27      Result:480873       Percentage:9.62%     
+   Heads= 28      Result:393235       Percentage:7.86%     
+   Heads= 29      Result:298961       Percentage:5.98%     
+   Heads= 30      Result:209115       Percentage:4.18%     
+   Heads= 31      Result:135147       Percentage:2.70%     
+   Heads= 32      Result:80243        Percentage:1.60%     
+   Heads= 33      Result:43973        Percentage:0.88%     
+   Heads= 34      Result:21674        Percentage:0.43%     
+   Heads= 35      Result:10177        Percentage:0.20%     
+   Heads= 36      Result:4057         Percentage:0.08%     
+   Heads= 37      Result:1581         Percentage:0.03%     
+   Heads= 38      Result:563          Percentage:0.01%     
+   Heads= 39      Result:156          Percentage:0.00%     
+   Heads= 40      Result:41           Percentage:0.00%     
+   Heads= 41      Result:12           Percentage:0.00%     
+   Heads= 42      Result:1            Percentage:0.00%     
+   Heads= 43      Result:0            Percentage:0.00%     
+   Heads= 44      Result:0            Percentage:0.00%     
+   Heads= 45      Result:0            Percentage:0.00%     
+   Heads= 46      Result:0            Percentage:0.00%     
+   Heads= 47      Result:0            Percentage:0.00%     
+   Heads= 48      Result:0            Percentage:0.00%     
+   Heads= 49      Result:0            Percentage:0.00%     
+   Heads= 50      Result:0            Percentage:0.00%     
+
+------------------- CHECKSUMS --------------------
+Accumulated Probability:100.00%
+Total times counted: 5000000
+
+**************************************************
+
+
+Tosses = 50    Times 1000  = 50000
+Probability used: 52.00%
+
+   Heads= 0       Result:0            Percentage:0.00%     
+   Heads= 1       Result:0            Percentage:0.00%     
+   Heads= 2       Result:0            Percentage:0.00%     
+   Heads= 3       Result:0            Percentage:0.00%     
+   Heads= 4       Result:0            Percentage:0.00%     
+   Heads= 5       Result:0            Percentage:0.00%     
+   Heads= 6       Result:0            Percentage:0.00%     
+   Heads= 7       Result:0            Percentage:0.00%     
+   Heads= 8       Result:0            Percentage:0.00%     
+   Heads= 9       Result:0            Percentage:0.00%     
+   Heads= 10      Result:0            Percentage:0.00%     
+   Heads= 11      Result:1            Percentage:0.00%     
+   Heads= 12      Result:0            Percentage:0.00%     
+   Heads= 13      Result:9            Percentage:0.02%     
+   Heads= 14      Result:16           Percentage:0.03%     
+   Heads= 15      Result:46           Percentage:0.09%     
+   Heads= 16      Result:97           Percentage:0.19%     
+   Heads= 17      Result:245          Percentage:0.49%     
+   Heads= 18      Result:479          Percentage:0.96%     
+   Heads= 19      Result:804          Percentage:1.61%     
+   Heads= 20      Result:1403         Percentage:2.81%     
+   Heads= 21      Result:1995         Percentage:3.99%     
+   Heads= 22      Result:2994         Percentage:5.99%     
+   Heads= 23      Result:3842         Percentage:7.68%     
+   Heads= 24      Result:4802         Percentage:9.60%     
+   Heads= 25      Result:5312         Percentage:10.62%    
+   Heads= 26      Result:5599         Percentage:11.20%    
+   Heads= 27      Result:5443         Percentage:10.89%    
+   Heads= 28      Result:4894         Percentage:9.79%     
+   Heads= 29      Result:4055         Percentage:8.11%     
+   Heads= 30      Result:2898         Percentage:5.80%     
+   Heads= 31      Result:2046         Percentage:4.09%     
+   Heads= 32      Result:1321         Percentage:2.64%     
+   Heads= 33      Result:845          Percentage:1.69%     
+   Heads= 34      Result:467          Percentage:0.93%     
+   Heads= 35      Result:213          Percentage:0.43%     
+   Heads= 36      Result:105          Percentage:0.21%     
+   Heads= 37      Result:39           Percentage:0.08%     
+   Heads= 38      Result:24           Percentage:0.05%     
+   Heads= 39      Result:4            Percentage:0.01%     
+   Heads= 40      Result:1            Percentage:0.00%     
+   Heads= 41      Result:1            Percentage:0.00%     
+   Heads= 42      Result:0            Percentage:0.00%     
+   Heads= 43      Result:0            Percentage:0.00%     
+   Heads= 44      Result:0            Percentage:0.00%     
+   Heads= 45      Result:0            Percentage:0.00%     
+   Heads= 46      Result:0            Percentage:0.00%     
+   Heads= 47      Result:0            Percentage:0.00%     
+   Heads= 48      Result:0            Percentage:0.00%     
+   Heads= 49      Result:0            Percentage:0.00%     
+   Heads= 50      Result:0            Percentage:0.00%     
+
+------------------- CHECKSUMS --------------------
+Accumulated Probability:100.00%
+Total times counted: 50000
+
+**************************************************
+
+
+Tosses = 50    Times 10000  = 500000
+Probability used: 52.00%
+
+   Heads= 0       Result:0            Percentage:0.00%     
+   Heads= 1       Result:0            Percentage:0.00%     
+   Heads= 2       Result:0            Percentage:0.00%     
+   Heads= 3       Result:0            Percentage:0.00%     
+   Heads= 4       Result:0            Percentage:0.00%     
+   Heads= 5       Result:0            Percentage:0.00%     
+   Heads= 6       Result:0            Percentage:0.00%     
+   Heads= 7       Result:0            Percentage:0.00%     
+   Heads= 8       Result:0            Percentage:0.00%     
+   Heads= 9       Result:0            Percentage:0.00%     
+   Heads= 10      Result:4            Percentage:0.00%     
+   Heads= 11      Result:7            Percentage:0.00%     
+   Heads= 12      Result:14           Percentage:0.00%     
+   Heads= 13      Result:63           Percentage:0.01%     
+   Heads= 14      Result:167          Percentage:0.03%     
+   Heads= 15      Result:425          Percentage:0.08%     
+   Heads= 16      Result:1033         Percentage:0.21%     
+   Heads= 17      Result:2278         Percentage:0.46%     
+   Heads= 18      Result:4471         Percentage:0.89%     
+   Heads= 19      Result:8136         Percentage:1.63%     
+   Heads= 20      Result:13619        Percentage:2.72%     
+   Heads= 21      Result:20809        Percentage:4.16%     
+   Heads= 22      Result:29765        Percentage:5.95%     
+   Heads= 23      Result:39385        Percentage:7.88%     
+   Heads= 24      Result:48058        Percentage:9.61%     
+   Heads= 25      Result:54185        Percentage:10.84%    
+   Heads= 26      Result:55868        Percentage:11.17%    
+   Heads= 27      Result:54180        Percentage:10.84%    
+   Heads= 28      Result:48153        Percentage:9.63%     
+   Heads= 29      Result:39207        Percentage:7.84%     
+   Heads= 30      Result:29977        Percentage:6.00%     
+   Heads= 31      Result:20865        Percentage:4.17%     
+   Heads= 32      Result:13432        Percentage:2.69%     
+   Heads= 33      Result:7885         Percentage:1.58%     
+   Heads= 34      Result:4206         Percentage:0.84%     
+   Heads= 35      Result:2196         Percentage:0.44%     
+   Heads= 36      Result:996          Percentage:0.20%     
+   Heads= 37      Result:413          Percentage:0.08%     
+   Heads= 38      Result:139          Percentage:0.03%     
+   Heads= 39      Result:49           Percentage:0.01%     
+   Heads= 40      Result:9            Percentage:0.00%     
+   Heads= 41      Result:4            Percentage:0.00%     
+   Heads= 42      Result:1            Percentage:0.00%     
+   Heads= 43      Result:1            Percentage:0.00%     
+   Heads= 44      Result:0            Percentage:0.00%     
+   Heads= 45      Result:0            Percentage:0.00%     
+   Heads= 46      Result:0            Percentage:0.00%     
+   Heads= 47      Result:0            Percentage:0.00%     
+   Heads= 48      Result:0            Percentage:0.00%     
+   Heads= 49      Result:0            Percentage:0.00%     
+   Heads= 50      Result:0            Percentage:0.00%     
+
+------------------- CHECKSUMS --------------------
+Accumulated Probability:100.00%
+Total times counted: 500000
+
+**************************************************
+
+
+Tosses = 50    Times 100000  = 5000000
+Probability used: 52.00%
+
+   Heads= 0       Result:0            Percentage:0.00%     
+   Heads= 1       Result:0            Percentage:0.00%     
+   Heads= 2       Result:0            Percentage:0.00%     
+   Heads= 3       Result:0            Percentage:0.00%     
+   Heads= 4       Result:0            Percentage:0.00%     
+   Heads= 5       Result:0            Percentage:0.00%     
+   Heads= 6       Result:0            Percentage:0.00%     
+   Heads= 7       Result:0            Percentage:0.00%     
+   Heads= 8       Result:0            Percentage:0.00%     
+   Heads= 9       Result:5            Percentage:0.00%     
+   Heads= 10      Result:12           Percentage:0.00%     
+   Heads= 11      Result:46           Percentage:0.00%     
+   Heads= 12      Result:157          Percentage:0.00%     
+   Heads= 13      Result:593          Percentage:0.01%     
+   Heads= 14      Result:1675         Percentage:0.03%     
+   Heads= 15      Result:4315         Percentage:0.09%     
+   Heads= 16      Result:10267        Percentage:0.21%     
+   Heads= 17      Result:22296        Percentage:0.45%     
+   Heads= 18      Result:43849        Percentage:0.88%     
+   Heads= 19      Result:80180        Percentage:1.60%     
+   Heads= 20      Result:135323       Percentage:2.71%     
+   Heads= 21      Result:208653       Percentage:4.17%     
+   Heads= 22      Result:297803       Percentage:5.96%     
+   Heads= 23      Result:392183       Percentage:7.84%     
+   Heads= 24      Result:478764       Percentage:9.58%     
+   Heads= 25      Result:539385       Percentage:10.79%    
+   Heads= 26      Result:562103       Percentage:11.24%    
+   Heads= 27      Result:541339       Percentage:10.83%    
+   Heads= 28      Result:481539       Percentage:9.63%     
+   Heads= 29      Result:396012       Percentage:7.92%     
+   Heads= 30      Result:300177       Percentage:6.00%     
+   Heads= 31      Result:208551       Percentage:4.17%     
+   Heads= 32      Result:134511       Percentage:2.69%     
+   Heads= 33      Result:79679        Percentage:1.59%     
+   Heads= 34      Result:43311        Percentage:0.87%     
+   Heads= 35      Result:21482        Percentage:0.43%     
+   Heads= 36      Result:9572         Percentage:0.19%     
+   Heads= 37      Result:3939         Percentage:0.08%     
+   Heads= 38      Result:1565         Percentage:0.03%     
+   Heads= 39      Result:512          Percentage:0.01%     
+   Heads= 40      Result:150          Percentage:0.00%     
+   Heads= 41      Result:43           Percentage:0.00%     
+   Heads= 42      Result:5            Percentage:0.00%     
+   Heads= 43      Result:4            Percentage:0.00%     
+   Heads= 44      Result:0            Percentage:0.00%     
+   Heads= 45      Result:0            Percentage:0.00%     
+   Heads= 46      Result:0            Percentage:0.00%     
+   Heads= 47      Result:0            Percentage:0.00%     
+   Heads= 48      Result:0            Percentage:0.00%     
+   Heads= 49      Result:0            Percentage:0.00%     
+   Heads= 50      Result:0            Percentage:0.00%     
+
+------------------- CHECKSUMS --------------------
+Accumulated Probability:100.00%
+Total times counted: 5000000
+
+**************************************************
+
+
+Tosses = 50    Times 1000  = 50000
+Probability used: 55.00%
+
+   Heads= 0       Result:0            Percentage:0.00%     
+   Heads= 1       Result:0            Percentage:0.00%     
+   Heads= 2       Result:0            Percentage:0.00%     
+   Heads= 3       Result:0            Percentage:0.00%     
+   Heads= 4       Result:0            Percentage:0.00%     
+   Heads= 5       Result:0            Percentage:0.00%     
+   Heads= 6       Result:0            Percentage:0.00%     
+   Heads= 7       Result:0            Percentage:0.00%     
+   Heads= 8       Result:0            Percentage:0.00%     
+   Heads= 9       Result:0            Percentage:0.00%     
+   Heads= 10      Result:0            Percentage:0.00%     
+   Heads= 11      Result:0            Percentage:0.00%     
+   Heads= 12      Result:0            Percentage:0.00%     
+   Heads= 13      Result:1            Percentage:0.00%     
+   Heads= 14      Result:5            Percentage:0.01%     
+   Heads= 15      Result:9            Percentage:0.02%     
+   Heads= 16      Result:26           Percentage:0.05%     
+   Heads= 17      Result:61           Percentage:0.12%     
+   Heads= 18      Result:163          Percentage:0.33%     
+   Heads= 19      Result:340          Percentage:0.68%     
+   Heads= 20      Result:588          Percentage:1.18%     
+   Heads= 21      Result:1024         Percentage:2.05%     
+   Heads= 22      Result:1597         Percentage:3.19%     
+   Heads= 23      Result:2583         Percentage:5.17%     
+   Heads= 24      Result:3324         Percentage:6.65%     
+   Heads= 25      Result:4333         Percentage:8.67%     
+   Heads= 26      Result:5098         Percentage:10.20%    
+   Heads= 27      Result:5647         Percentage:11.29%    
+   Heads= 28      Result:5667         Percentage:11.33%    
+   Heads= 29      Result:5128         Percentage:10.26%    
+   Heads= 30      Result:4486         Percentage:8.97%     
+   Heads= 31      Result:3519         Percentage:7.04%     
+   Heads= 32      Result:2586         Percentage:5.17%     
+   Heads= 33      Result:1683         Percentage:3.37%     
+   Heads= 34      Result:1007         Percentage:2.01%     
+   Heads= 35      Result:590          Percentage:1.18%     
+   Heads= 36      Result:305          Percentage:0.61%     
+   Heads= 37      Result:142          Percentage:0.28%     
+   Heads= 38      Result:50           Percentage:0.10%     
+   Heads= 39      Result:28           Percentage:0.06%     
+   Heads= 40      Result:3            Percentage:0.01%     
+   Heads= 41      Result:5            Percentage:0.01%     
+   Heads= 42      Result:1            Percentage:0.00%     
+   Heads= 43      Result:1            Percentage:0.00%     
+   Heads= 44      Result:0            Percentage:0.00%     
+   Heads= 45      Result:0            Percentage:0.00%     
+   Heads= 46      Result:0            Percentage:0.00%     
+   Heads= 47      Result:0            Percentage:0.00%     
+   Heads= 48      Result:0            Percentage:0.00%     
+   Heads= 49      Result:0            Percentage:0.00%     
+   Heads= 50      Result:0            Percentage:0.00%     
+
+------------------- CHECKSUMS --------------------
+Accumulated Probability:100.00%
+Total times counted: 50000
+
+**************************************************
+
+
+Tosses = 50    Times 10000  = 500000
+Probability used: 55.00%
+
+   Heads= 0       Result:0            Percentage:0.00%     
+   Heads= 1       Result:0            Percentage:0.00%     
+   Heads= 2       Result:0            Percentage:0.00%     
+   Heads= 3       Result:0            Percentage:0.00%     
+   Heads= 4       Result:0            Percentage:0.00%     
+   Heads= 5       Result:0            Percentage:0.00%     
+   Heads= 6       Result:0            Percentage:0.00%     
+   Heads= 7       Result:0            Percentage:0.00%     
+   Heads= 8       Result:0            Percentage:0.00%     
+   Heads= 9       Result:0            Percentage:0.00%     
+   Heads= 10      Result:0            Percentage:0.00%     
+   Heads= 11      Result:1            Percentage:0.00%     
+   Heads= 12      Result:5            Percentage:0.00%     
+   Heads= 13      Result:13           Percentage:0.00%     
+   Heads= 14      Result:18           Percentage:0.00%     
+   Heads= 15      Result:97           Percentage:0.02%     
+   Heads= 16      Result:274          Percentage:0.05%     
+   Heads= 17      Result:710          Percentage:0.14%     
+   Heads= 18      Result:1608         Percentage:0.32%     
+   Heads= 19      Result:3068         Percentage:0.61%     
+   Heads= 20      Result:5971         Percentage:1.19%     
+   Heads= 21      Result:10292        Percentage:2.06%     
+   Heads= 22      Result:16889        Percentage:3.38%     
+   Heads= 23      Result:24761        Percentage:4.95%     
+   Heads= 24      Result:34165        Percentage:6.83%     
+   Heads= 25      Result:43538        Percentage:8.71%     
+   Heads= 26      Result:51298        Percentage:10.26%    
+   Heads= 27      Result:55605        Percentage:11.12%    
+   Heads= 28      Result:56424        Percentage:11.28%    
+   Heads= 29      Result:51670        Percentage:10.33%    
+   Heads= 30      Result:44438        Percentage:8.89%     
+   Heads= 31      Result:35093        Percentage:7.02%     
+   Heads= 32      Result:25542        Percentage:5.11%     
+   Heads= 33      Result:17010        Percentage:3.40%     
+   Heads= 34      Result:10476        Percentage:2.10%     
+   Heads= 35      Result:5849         Percentage:1.17%     
+   Heads= 36      Result:2957         Percentage:0.59%     
+   Heads= 37      Result:1381         Percentage:0.28%     
+   Heads= 38      Result:533          Percentage:0.11%     
+   Heads= 39      Result:227          Percentage:0.05%     
+   Heads= 40      Result:63           Percentage:0.01%     
+   Heads= 41      Result:20           Percentage:0.00%     
+   Heads= 42      Result:4            Percentage:0.00%     
+   Heads= 43      Result:0            Percentage:0.00%     
+   Heads= 44      Result:0            Percentage:0.00%     
+   Heads= 45      Result:0            Percentage:0.00%     
+   Heads= 46      Result:0            Percentage:0.00%     
+   Heads= 47      Result:0            Percentage:0.00%     
+   Heads= 48      Result:0            Percentage:0.00%     
+   Heads= 49      Result:0            Percentage:0.00%     
+   Heads= 50      Result:0            Percentage:0.00%     
+
+------------------- CHECKSUMS --------------------
+Accumulated Probability:100.00%
+Total times counted: 500000
+
+**************************************************
+
+
+Tosses = 50    Times 100000  = 5000000
+Probability used: 55.00%
+
+   Heads= 0       Result:0            Percentage:0.00%     
+   Heads= 1       Result:0            Percentage:0.00%     
+   Heads= 2       Result:0            Percentage:0.00%     
+   Heads= 3       Result:0            Percentage:0.00%     
+   Heads= 4       Result:0            Percentage:0.00%     
+   Heads= 5       Result:0            Percentage:0.00%     
+   Heads= 6       Result:0            Percentage:0.00%     
+   Heads= 7       Result:0            Percentage:0.00%     
+   Heads= 8       Result:0            Percentage:0.00%     
+   Heads= 9       Result:1            Percentage:0.00%     
+   Heads= 10      Result:0            Percentage:0.00%     
+   Heads= 11      Result:5            Percentage:0.00%     
+   Heads= 12      Result:35           Percentage:0.00%     
+   Heads= 13      Result:113          Percentage:0.00%     
+   Heads= 14      Result:324          Percentage:0.01%     
+   Heads= 15      Result:1030         Percentage:0.02%     
+   Heads= 16      Result:2711         Percentage:0.05%     
+   Heads= 17      Result:6763         Percentage:0.14%     
+   Heads= 18      Result:15538        Percentage:0.31%     
+   Heads= 19      Result:31661        Percentage:0.63%     
+   Heads= 20      Result:59804        Percentage:1.20%     
+   Heads= 21      Result:104446       Percentage:2.09%     
+   Heads= 22      Result:167967       Percentage:3.36%     
+   Heads= 23      Result:248508       Percentage:4.97%     
+   Heads= 24      Result:343157       Percentage:6.86%     
+   Heads= 25      Result:437031       Percentage:8.74%     
+   Heads= 26      Result:512141       Percentage:10.24%    
+   Heads= 27      Result:556644       Percentage:11.13%    
+   Heads= 28      Result:560779       Percentage:11.22%    
+   Heads= 29      Result:518296       Percentage:10.37%    
+   Heads= 30      Result:446089       Percentage:8.92%     
+   Heads= 31      Result:350014       Percentage:7.00%     
+   Heads= 32      Result:253568       Percentage:5.07%     
+   Heads= 33      Result:169721       Percentage:3.39%     
+   Heads= 34      Result:103476       Percentage:2.07%     
+   Heads= 35      Result:57978        Percentage:1.16%     
+   Heads= 36      Result:29616        Percentage:0.59%     
+   Heads= 37      Result:13696        Percentage:0.27%     
+   Heads= 38      Result:5771         Percentage:0.12%     
+   Heads= 39      Result:2106         Percentage:0.04%     
+   Heads= 40      Result:720          Percentage:0.01%     
+   Heads= 41      Result:220          Percentage:0.00%     
+   Heads= 42      Result:52           Percentage:0.00%     
+   Heads= 43      Result:17           Percentage:0.00%     
+   Heads= 44      Result:1            Percentage:0.00%     
+   Heads= 45      Result:1            Percentage:0.00%     
+   Heads= 46      Result:0            Percentage:0.00%     
+   Heads= 47      Result:0            Percentage:0.00%     
+   Heads= 48      Result:0            Percentage:0.00%     
+   Heads= 49      Result:0            Percentage:0.00%     
+   Heads= 50      Result:0            Percentage:0.00%     
+
+------------------- CHECKSUMS --------------------
+Accumulated Probability:100.00%
+Total times counted: 5000000
+
+**************************************************
+
+
+Tosses = 50    Times 1000  = 50000
+Probability used: 60.00%
+
+   Heads= 0       Result:0            Percentage:0.00%     
+   Heads= 1       Result:0            Percentage:0.00%     
+   Heads= 2       Result:0            Percentage:0.00%     
+   Heads= 3       Result:0            Percentage:0.00%     
+   Heads= 4       Result:0            Percentage:0.00%     
+   Heads= 5       Result:0            Percentage:0.00%     
+   Heads= 6       Result:0            Percentage:0.00%     
+   Heads= 7       Result:0            Percentage:0.00%     
+   Heads= 8       Result:0            Percentage:0.00%     
+   Heads= 9       Result:0            Percentage:0.00%     
+   Heads= 10      Result:0            Percentage:0.00%     
+   Heads= 11      Result:0            Percentage:0.00%     
+   Heads= 12      Result:0            Percentage:0.00%     
+   Heads= 13      Result:0            Percentage:0.00%     
+   Heads= 14      Result:0            Percentage:0.00%     
+   Heads= 15      Result:1            Percentage:0.00%     
+   Heads= 16      Result:1            Percentage:0.00%     
+   Heads= 17      Result:5            Percentage:0.01%     
+   Heads= 18      Result:21           Percentage:0.04%     
+   Heads= 19      Result:56           Percentage:0.11%     
+   Heads= 20      Result:102          Percentage:0.20%     
+   Heads= 21      Result:215          Percentage:0.43%     
+   Heads= 22      Result:430          Percentage:0.86%     
+   Heads= 23      Result:795          Percentage:1.59%     
+   Heads= 24      Result:1309         Percentage:2.62%     
+   Heads= 25      Result:2070         Percentage:4.14%     
+   Heads= 26      Result:2953         Percentage:5.91%     
+   Heads= 27      Result:3862         Percentage:7.72%     
+   Heads= 28      Result:4775         Percentage:9.55%     
+   Heads= 29      Result:5445         Percentage:10.89%    
+   Heads= 30      Result:5752         Percentage:11.50%    
+   Heads= 31      Result:5596         Percentage:11.19%    
+   Heads= 32      Result:4863         Percentage:9.73%     
+   Heads= 33      Result:3979         Percentage:7.96%     
+   Heads= 34      Result:3060         Percentage:6.12%     
+   Heads= 35      Result:2050         Percentage:4.10%     
+   Heads= 36      Result:1272         Percentage:2.54%     
+   Heads= 37      Result:734          Percentage:1.47%     
+   Heads= 38      Result:366          Percentage:0.73%     
+   Heads= 39      Result:182          Percentage:0.36%     
+   Heads= 40      Result:70           Percentage:0.14%     
+   Heads= 41      Result:25           Percentage:0.05%     
+   Heads= 42      Result:6            Percentage:0.01%     
+   Heads= 43      Result:2            Percentage:0.00%     
+   Heads= 44      Result:3            Percentage:0.01%     
+   Heads= 45      Result:0            Percentage:0.00%     
+   Heads= 46      Result:0            Percentage:0.00%     
+   Heads= 47      Result:0            Percentage:0.00%     
+   Heads= 48      Result:0            Percentage:0.00%     
+   Heads= 49      Result:0            Percentage:0.00%     
+   Heads= 50      Result:0            Percentage:0.00%     
+
+------------------- CHECKSUMS --------------------
+Accumulated Probability:100.00%
+Total times counted: 50000
+
+**************************************************
+
+
+Tosses = 50    Times 10000  = 500000
+Probability used: 60.00%
+
+   Heads= 0       Result:0            Percentage:0.00%     
+   Heads= 1       Result:0            Percentage:0.00%     
+   Heads= 2       Result:0            Percentage:0.00%     
+   Heads= 3       Result:0            Percentage:0.00%     
+   Heads= 4       Result:0            Percentage:0.00%     
+   Heads= 5       Result:0            Percentage:0.00%     
+   Heads= 6       Result:0            Percentage:0.00%     
+   Heads= 7       Result:0            Percentage:0.00%     
+   Heads= 8       Result:0            Percentage:0.00%     
+   Heads= 9       Result:0            Percentage:0.00%     
+   Heads= 10      Result:0            Percentage:0.00%     
+   Heads= 11      Result:0            Percentage:0.00%     
+   Heads= 12      Result:0            Percentage:0.00%     
+   Heads= 13      Result:1            Percentage:0.00%     
+   Heads= 14      Result:2            Percentage:0.00%     
+   Heads= 15      Result:4            Percentage:0.00%     
+   Heads= 16      Result:22           Percentage:0.00%     
+   Heads= 17      Result:56           Percentage:0.01%     
+   Heads= 18      Result:163          Percentage:0.03%     
+   Heads= 19      Result:436          Percentage:0.09%     
+   Heads= 20      Result:1016         Percentage:0.20%     
+   Heads= 21      Result:2085         Percentage:0.42%     
+   Heads= 22      Result:4105         Percentage:0.82%     
+   Heads= 23      Result:7471         Percentage:1.49%     
+   Heads= 24      Result:13307        Percentage:2.66%     
+   Heads= 25      Result:20241        Percentage:4.05%     
+   Heads= 26      Result:29278        Percentage:5.86%     
+   Heads= 27      Result:38978        Percentage:7.80%     
+   Heads= 28      Result:47870        Percentage:9.57%     
+   Heads= 29      Result:54501        Percentage:10.90%    
+   Heads= 30      Result:57610        Percentage:11.52%    
+   Heads= 31      Result:55362        Percentage:11.07%    
+   Heads= 32      Result:49308        Percentage:9.86%     
+   Heads= 33      Result:40256        Percentage:8.05%     
+   Heads= 34      Result:30159        Percentage:6.03%     
+   Heads= 35      Result:20658        Percentage:4.13%     
+   Heads= 36      Result:13210        Percentage:2.64%     
+   Heads= 37      Result:7197         Percentage:1.44%     
+   Heads= 38      Result:3855         Percentage:0.77%     
+   Heads= 39      Result:1716         Percentage:0.34%     
+   Heads= 40      Result:760          Percentage:0.15%     
+   Heads= 41      Result:277          Percentage:0.06%     
+   Heads= 42      Result:76           Percentage:0.02%     
+   Heads= 43      Result:13           Percentage:0.00%     
+   Heads= 44      Result:7            Percentage:0.00%     
+   Heads= 45      Result:0            Percentage:0.00%     
+   Heads= 46      Result:0            Percentage:0.00%     
+   Heads= 47      Result:0            Percentage:0.00%     
+   Heads= 48      Result:0            Percentage:0.00%     
+   Heads= 49      Result:0            Percentage:0.00%     
+   Heads= 50      Result:0            Percentage:0.00%     
+
+------------------- CHECKSUMS --------------------
+Accumulated Probability:100.00%
+Total times counted: 500000
+
+**************************************************
+
+
+Tosses = 50    Times 100000  = 5000000
+Probability used: 60.00%
+
+   Heads= 0       Result:0            Percentage:0.00%     
+   Heads= 1       Result:0            Percentage:0.00%     
+   Heads= 2       Result:0            Percentage:0.00%     
+   Heads= 3       Result:0            Percentage:0.00%     
+   Heads= 4       Result:0            Percentage:0.00%     
+   Heads= 5       Result:0            Percentage:0.00%     
+   Heads= 6       Result:0            Percentage:0.00%     
+   Heads= 7       Result:0            Percentage:0.00%     
+   Heads= 8       Result:0            Percentage:0.00%     
+   Heads= 9       Result:0            Percentage:0.00%     
+   Heads= 10      Result:0            Percentage:0.00%     
+   Heads= 11      Result:0            Percentage:0.00%     
+   Heads= 12      Result:0            Percentage:0.00%     
+   Heads= 13      Result:6            Percentage:0.00%     
+   Heads= 14      Result:23           Percentage:0.00%     
+   Heads= 15      Result:58           Percentage:0.00%     
+   Heads= 16      Result:197          Percentage:0.00%     
+   Heads= 17      Result:614          Percentage:0.01%     
+   Heads= 18      Result:1676         Percentage:0.03%     
+   Heads= 19      Result:4313         Percentage:0.09%     
+   Heads= 20      Result:10118        Percentage:0.20%     
+   Heads= 21      Result:21244        Percentage:0.42%     
+   Heads= 22      Result:42039        Percentage:0.84%     
+   Heads= 23      Result:77057        Percentage:1.54%     
+   Heads= 24      Result:130197       Percentage:2.60%     
+   Heads= 25      Result:201667       Percentage:4.03%     
+   Heads= 26      Result:290833       Percentage:5.82%     
+   Heads= 27      Result:389954       Percentage:7.80%     
+   Heads= 28      Result:479434       Percentage:9.59%     
+   Heads= 29      Result:543820       Percentage:10.88%    
+   Heads= 30      Result:573166       Percentage:11.46%    
+   Heads= 31      Result:554742       Percentage:11.09%    
+   Heads= 32      Result:493609       Percentage:9.87%     
+   Heads= 33      Result:404501       Percentage:8.09%     
+   Heads= 34      Result:303060       Percentage:6.06%     
+   Heads= 35      Result:207282       Percentage:4.15%     
+   Heads= 36      Result:130099       Percentage:2.60%     
+   Heads= 37      Result:73727        Percentage:1.47%     
+   Heads= 38      Result:38123        Percentage:0.76%     
+   Heads= 39      Result:17427        Percentage:0.35%     
+   Heads= 40      Result:7197         Percentage:0.14%     
+   Heads= 41      Result:2695         Percentage:0.05%     
+   Heads= 42      Result:831          Percentage:0.02%     
+   Heads= 43      Result:225          Percentage:0.00%     
+   Heads= 44      Result:58           Percentage:0.00%     
+   Heads= 45      Result:6            Percentage:0.00%     
+   Heads= 46      Result:2            Percentage:0.00%     
+   Heads= 47      Result:0            Percentage:0.00%     
+   Heads= 48      Result:0            Percentage:0.00%     
+   Heads= 49      Result:0            Percentage:0.00%     
+   Heads= 50      Result:0            Percentage:0.00%     
+
+------------------- CHECKSUMS --------------------
+Accumulated Probability:100.00%
+Total times counted: 5000000
+
+**************************************************
+
+
